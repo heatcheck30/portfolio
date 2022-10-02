@@ -64,6 +64,17 @@ nav a {
   flex-direction: row;
 }
 
+#footer .project-area {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+#portfolio img {
+  width: 100%;
+  height: 100%;
+}
+
 .project {
   margin-right: 10px;
   margin-left: 10px;
