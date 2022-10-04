@@ -54,7 +54,7 @@ nav a {
 
 #intro {
  text-align: center; 
- margin-bottom: 500px;
+ margin-bottom: 400px;
 }
 
 #intro img {
@@ -69,7 +69,7 @@ nav a {
 
 #portfolio .project-area {
   display: flex;
-  justify-content: center;
+  justify-content: left;
   flex-direction: row;
   padding-bottom: 100px;
 }
@@ -94,6 +94,8 @@ footer {
 
 .blanket {
   background-color: var(--color-primary);
+  text-align: center; 
+  margin-bottom: 400px
 }
 
 @media only screen and (max-width: 1350px) {
@@ -103,6 +105,6 @@ footer {
 
   #portfolio .project-area {
     flex-direction: column;
-    text-align: center;
+    text-align: left;
   }
 }
