@@ -1,14 +1,14 @@
 MVP
-Component		Priority	Estimated Time	Actual Time
-Hamburger		H	1hr	0hr
-Project Previews	H	3hr	2hr
-Regular Nav		H	1hr	1hr
-Adding Form		H	1.5hr	0hr
-Other sections and flex	M	3hr	3hr
-Working with API	H	3hrs	2.5hr
-Responsive		H	3hr	1.5hr
-Social Media Icons	L	1hr	0.5hr
-Total			H	15.5hrs	10.5hrs
+Component				Priority	Estimated Time	Actual Time
+Hamburger				H			1hr				0hr
+Project Previews		H			3hr				2hr
+Regular Nav				H			1hr				1hr
+Adding Form				H			1.5hr			0hr
+Other sections and flex	M			3hr				3hr
+Working with API		H			3hrs			2.5hr
+Responsive				H			3hr				1.5hr
+Social Media Icons		L			1hr				0.5hr
+Total					H			15.5hrs			10.5hrs
 
 
 # Portfolio Readme Demo
