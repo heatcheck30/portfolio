@@ -73,7 +73,7 @@ Total					H			15.5hrs	hrs
 
 ## Additional Libraries Used
 
- Use this section to list all supporting libraries and thier role in the project. 
+ weather api
 
 ## Code Snippet
 
@@ -81,9 +81,8 @@ Use this section to include a brief code snippet of functionality that you are p
 
 ```
 function myCoolThing() {
-	// here is the code to do something really cool!
+Updated the weather api to update the city name to proper spelling/formatting
 ```
 
 ## Issues and Resolutions
 
- Use this section to list of all major issues encountered and their resolution.
